@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "First Person Footstep System",
+	"Description": "An easy-to-use footstep system for first-person adventure games. Does not require animations, supports different footstep sounds and loudness per physical material and action (walk, jump, land).",
+	"Category": "Gameplay",
+	"CreatedBy": "Kazimieras Mikelis",
+	"CreatedByURL": "https://mikelis.net/",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "https://mikelis.net/",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "FirstPersonFootsteps",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault"
+		}
+	]
+}
